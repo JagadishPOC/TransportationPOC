@@ -1,0 +1,11 @@
+2016-06-27 16:12:16 INFO  RetryExec:93 - I/O exception (java.net.SocketException) caught when processing request: Connection reset
+2016-06-27 16:12:16 INFO  RetryExec:106 - Retrying request
+2016-06-27 17:00:25 INFO  Test_BusSearch:153 - Starting Test Case-TC_BRV_003-Repetition Sequence-1.0-Browser-CHROME-Search_Jourenye-30-Jun-2016-Travels-Morning Star Travels-Expected_Result-Morning Star Travels
+2016-06-27 17:13:21 INFO  Test_BusSearch:153 - Starting Test Case-TC_BRV_003-Repetition Sequence-1.0-Browser-CHROME-Search_Jourenye-30-Jun-2016-Travels-Morning Star Travels-Expected_Result-Morning Star Travels
+2016-06-27 17:20:41 INFO  Test_BusSearch:153 - Starting Test Case-TC_BRV_003-Repetition Sequence-1.0-Browser-CHROME-Search_Jourenye-30-Jun-2016-Travels-Morning Star Travels-Expected_Result-Morning Star Travels
+2016-06-27 17:23:04 INFO  Test_BusSearch:153 - Starting Test Case-TC_BRV_003-Repetition Sequence-1.0-Browser-CHROME-Search_Jourenye-30-Jun-2016-Travels-Morning Star Travels-Expected_Result-Morning Star Travels
+2016-06-27 17:28:58 INFO  Test_BusSearch:153 - Starting Test Case-TC_BRV_003-Repetition Sequence-1.0-Browser-CHROME-Search_Jourenye-30-Jun-2016-Travels-Morning Star Travels-Expected_Result-Morning Star Travels
+2016-06-27 17:35:35 INFO  Test_BusSearch:153 - Starting Test Case-TC_BRV_003-Repetition Sequence-1.0-Browser-CHROME-Search_Jourenye-30-Jun-2016-Travels-Morning Star Travels-Expected_Result-Morning Star Travels
+2016-06-27 19:05:24 INFO  Test_BusBooking:48 - Starting Test Case-TC_BB_001-Repetition Sequence-1.0--Customer Gender Entered
+2016-06-27 19:18:03 INFO  Test_BusSearch:153 - Starting Test Case-TC_BRV_003-Repetition Sequence-1.0-Browser-CHROME-Search_Jourenye-30-Jun-2016-Travels-Morning Star Travels-Expected_Result-Morning Star Travels
+2016-06-27 19:25:49 INFO  Test_BusSearch:153 - Starting Test Case-TC_BRV_003-Repetition Sequence-1.0-Browser-CHROME-Search_Jourenye-30-Jun-2016-Travels-Morning Star Travels-Expected_Result-Morning Star Travels

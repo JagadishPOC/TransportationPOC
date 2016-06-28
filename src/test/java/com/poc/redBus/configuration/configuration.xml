@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Configuration</comment>
+
+<!-- <entry key="qa.aptimus">mobapi.redbus.in</entry> -->
+<entry key="redBus.networkprotocol">https</entry>
+<entry key="redBus.host">mobapi.redbus.in</entry>
+<entry key="redBus.port"></entry>  
+<!-- <entry key="sjdev.url">https://beta-classroom-dev.qaols.phoenix.edu/Classroom/#/</entry> -->
+</properties>

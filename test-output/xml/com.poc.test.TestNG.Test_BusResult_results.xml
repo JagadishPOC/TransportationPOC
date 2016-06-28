@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="redBus"
+           tests="5"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="110.042">
+  <properties />
+  
+  
+            <testcase name="testBusResulNextDay" time="17.153" classname="com.poc.test.TestNG.Test_BusResult" />
+                <testcase name="testBusResultFilterProvider" time="21.828" classname="com.poc.test.TestNG.Test_BusResult" />
+                <testcase name="testBusResulPreviousDay" time="17.272" classname="com.poc.test.TestNG.Test_BusResult" />
+                <testcase name="testBusResulSeatView" time="31.659" classname="com.poc.test.TestNG.Test_BusResult" />
+                <testcase name="testBusResultFilterType" time="22.130" classname="com.poc.test.TestNG.Test_BusResult" />
+      
+</testsuite>

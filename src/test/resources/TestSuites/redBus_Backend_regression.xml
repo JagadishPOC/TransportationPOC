@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="technothonPOC">
+	<parameter name="tenantId" value="831D8B107020BBEBE0400F0A32207789" />
+	<parameter name="testEnv" value="redBus.aptimus" />
+	<parameter name="scheme" value="https" />
+	<parameter name="port" value="" />
+	<parameter name="baseVersion" value="" />
+
+	<test name="Red Bus WebService API regression">
+		<parameter name="applicationResponseContentType" value="application/json" />
+		<parameter name="applicationRequestContentType" value="application/json" />
+		<classes>
+			<class name="com.poc.test.TestNG.Test_BusSearch" /> 
+			<class name="com.poc.test.TestNG.Test_BusResult" />
+			<class name="com.poc.test.TestNG.Test_BusBooking"/>
+			<class name="com.poc.test.TestNG.RedBus_SearchAPI_Tests">
+				<!-- <methods>
+					<include name="busSearch_Valid_tests" />
+				</methods> -->
+			</class>
+			<class name="com.poc.test.TestNG.RedBus_ResultAPI_Tests">
+				<!-- <methods>
+					<include name="bus_Result_Filter_Provider_tests" />
+				</methods> -->
+			</class>
+			<class name="com.poc.test.TestNG.RedBus_SeatLayoutAPI_Tests">
+				<!-- <methods>
+					<include name="testbusSeat_Available" />
+				</methods> -->
+			</class>
+
+		</classes>
+	</test>
+</suite> 

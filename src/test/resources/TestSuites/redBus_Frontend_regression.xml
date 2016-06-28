@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="technothonPOC">
+	<listeners>
+		<listener class-name="org.uncommons.reportng.HTMLReporter" />
+		<listener class-name="org.uncommons.reportng.JUnitXMLReporter" />
+	</listeners>
+	<test name="redBus">
+
+		<classes>
+			<class name="com.poc.test.TestNG.Test_BusSearch" /> 
+			<class name="com.poc.test.TestNG.Test_BusResult" />
+			<class name="com.poc.test.TestNG.Test_BusBooking"/>
+			<!-- <methods>
+				<include name="testBusBooking_CustomerData" />
+			</methods>
+			</class> -->
+		</classes>
+
+		<!-- <groups> <run> <include name="smoke"/> <exclude name="regression"/> 
+			</run> </groups> -->
+
+
+	</test> <!-- Test -->
+</suite> <!-- Suite -->
+
+
+

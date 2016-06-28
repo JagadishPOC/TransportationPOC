@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="redBus"
+           tests="3"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="100.409">
+  <properties />
+  
+  
+            <testcase name="testvalidSearch" time="31.932" classname="com.poc.test.TestNG.Test_BusSearch" />
+                <testcase name="testInvalidSearch" time="18.900" classname="com.poc.test.TestNG.Test_BusSearch" />
+                <testcase name="testNotYetOpenSearch" time="49.577" classname="com.poc.test.TestNG.Test_BusSearch" />
+      
+</testsuite>

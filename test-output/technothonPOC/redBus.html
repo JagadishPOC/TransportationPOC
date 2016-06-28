@@ -1,0 +1,270 @@
+<html>
+<head>
+<title>TestNG:  redBus</title>
+<link href="../testng.css" rel="stylesheet" type="text/css" />
+<link href="../my-testng.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+.log { display: none;} 
+.stack-trace { display: none;} 
+</style>
+<script type="text/javascript">
+<!--
+function flip(e) {
+  current = e.style.display;
+  if (current == 'block') {
+    e.style.display = 'none';
+    return 0;
+  }
+  else {
+    e.style.display = 'block';
+    return 1;
+  }
+}
+
+function toggleBox(szDivId, elem, msg1, msg2)
+{
+  var res = -1;  if (document.getElementById) {
+    res = flip(document.getElementById(szDivId));
+  }
+  else if (document.all) {
+    // this is the way old msie versions work
+    res = flip(document.all[szDivId]);
+  }
+  if(elem) {
+    if(res == 0) elem.innerHTML = msg1; else elem.innerHTML = msg2;
+  }
+
+}
+
+function toggleAllBoxes() {
+  if (document.getElementsByTagName) {
+    d = document.getElementsByTagName('div');
+    for (i = 0; i < d.length; i++) {
+      if (d[i].className == 'log') {
+        flip(d[i]);
+      }
+    }
+  }
+}
+
+// -->
+</script>
+
+</head>
+<body>
+<h2 align='center'>redBus</h2><table border='1' align="center">
+<tr>
+<td>Tests passed/Failed/Skipped:</td><td>9/0/0</td>
+</tr><tr>
+<td>Started on:</td><td>Tue Jun 28 14:33:20 IST 2016</td>
+</tr>
+<tr><td>Total time:</td><td>267 seconds (267992 ms)</td>
+</tr><tr>
+<td>Included groups:</td><td></td>
+</tr><tr>
+<td>Excluded groups:</td><td></td>
+</tr>
+</table><p/>
+<small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-passed'>
+<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='com.poc.test.TestNG.Test_BusBooking.testBusBooking_CustomerData()'><b>testBusBooking_CustomerData</b><br>Test class: com.poc.test.TestNG.Test_BusBooking<br>Parameters: TC_BB_001, 1.0, FIREFOX, Bangalore, Mysore, 30-Jun-2016, Seabird Torists Center, John, John@gmail.com, 9.894586571E9, M<br/>
+<a href="#Output-1988022943" onClick='toggleBox("Output-1988022943", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1988022943" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1988022943">
+Starting Test Case-TC_BB_001-Repetition Sequence-1.0-Browser-FIREFOX-Search_Jourenye-30-Jun-2016-Travels-Seabird Torists Center<br/>
+Starting Test Case--------TC_BB_001--------Repetition Sequence--------1.0<br/>
+Starting Test Case---TC_BB_001---Repetition Sequence---1.0---FIREFOX---Browser launched<br/>
+Starting Test Case---TC_BB_001---Repetition Sequence---1.0---URL launched<br/>
+Starting Test Case---TC_BB_001---Repetition Sequence---1.0---Entered From Location<br/>
+Starting Test Case---TC_BB_001---Repetition Sequence---1.0---Entered To Location<br/>
+Starting Test Case---TC_BB_001---Repetition Sequence---1.0---Entered To Journey Date<br/>
+Starting Test Case---TC_BB_001---Repetition Sequence---1.0---Searching Bus<br/>
+Starting Test Case---TC_BB_001---Repetition Sequence---1.0---Travels Sort was successful<br/>
+Starting Test Case---TC_BB_001---Repetition Sequence---1.0--- View Bus Seat<br/>
+Starting Test Case---TC_BB_001---Repetition Sequence---1.0---  Seat Selected<br/>
+Starting Test Case---TC_BB_001---Repetition Sequence---1.0---  Boarding Point Selected<br/>
+Starting Test Case---TC_BB_001---Repetition Sequence---1.0---  Continue Next Page<br/>
+Starting Test Case-TC_BB_001-Repetition Sequence-1.0--Customer Name Entered<br/>
+Starting Test Case-TC_BB_001-Repetition Sequence-1.0--Customer email id Entered<br/>
+Starting Test Case-TC_BB_001-Repetition Sequence-1.0--Customer Gender Entered<br/>
+Starting Test Case-TC_BB_001-Repetition Sequence-1.0--Customer Phone# Entered<br/>
+</div>
+</td>
+<td></td>
+<td>57</td>
+<td>com.poc.test.TestNG.Test_BusBooking@528445f7</td></tr>
+<tr>
+<td title='com.poc.test.TestNG.Test_BusResult.testBusResulNextDay()'><b>testBusResulNextDay</b><br>Test class: com.poc.test.TestNG.Test_BusResult<br>Parameters: TC_BRV_004, 1.0, CHROME, Hyderabad, Bangalore, 30-Jun-2016, Orange Tours Travels, Orange Tours Travels<br/>
+<a href="#Output-681748624" onClick='toggleBox("Output-681748624", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-681748624" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-681748624">
+Starting Test Case-TC_BRV_004-Repetition Sequence-1.0-Browser-CHROME-Search_Jourenye-30-Jun-2016-Travels-Orange Tours Travels-Expected_Result-Orange Tours Travels<br/>
+Starting Test Case--------TC_BRV_004--------Repetition Sequence--------1.0<br/>
+Starting Test Case---TC_BRV_004---Repetition Sequence---1.0---CHROME---Browser launched<br/>
+Starting Test Case---TC_BRV_004---Repetition Sequence---1.0---URL launched<br/>
+Starting Test Case---TC_BRV_004---Repetition Sequence---1.0---Entered From Location<br/>
+Starting Test Case---TC_BRV_004---Repetition Sequence---1.0---Entered To Location<br/>
+Starting Test Case---TC_BRV_004---Repetition Sequence---1.0---Entered To Journey Date<br/>
+Starting Test Case---TC_BRV_004---Repetition Sequence---1.0---Searching Bus<br/>
+Starting Test Case---TC_BRV_004---Repetition Sequence---1.0Next Day clicked<br/>
+Starting Test Case---TC_BRV_004---Repetition Sequence---1.0--- Test Pass--- Date is matching<br/>
+</div>
+</td>
+<td></td>
+<td>17</td>
+<td>com.poc.test.TestNG.Test_BusResult@6a0d8573</td></tr>
+<tr>
+<td title='com.poc.test.TestNG.Test_BusResult.testBusResulPreviousDay()'><b>testBusResulPreviousDay</b><br>Test class: com.poc.test.TestNG.Test_BusResult<br>Parameters: TC_BRV_005, 1.0, CHROME, Hyderabad, Bangalore, 30-Jun-2016, Orange Tours Travels, Orange Tours Travels<br/>
+<a href="#Output-615297741" onClick='toggleBox("Output-615297741", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-615297741" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-615297741">
+Starting Test Case-TC_BRV_005-Repetition Sequence-1.0-Browser-CHROME-Search_Jourenye-30-Jun-2016-Travels-Orange Tours Travels-Expected_Result-Orange Tours Travels<br/>
+Starting Test Case--------TC_BRV_005--------Repetition Sequence--------1.0<br/>
+Starting Test Case---TC_BRV_005---Repetition Sequence---1.0---CHROME---Browser launched<br/>
+Starting Test Case---TC_BRV_005---Repetition Sequence---1.0---URL launched<br/>
+Starting Test Case---TC_BRV_005---Repetition Sequence---1.0---Entered From Location<br/>
+Starting Test Case---TC_BRV_005---Repetition Sequence---1.0---Entered To Location<br/>
+Starting Test Case---TC_BRV_005---Repetition Sequence---1.0---Entered To Journey Date<br/>
+Starting Test Case---TC_BRV_005---Repetition Sequence---1.0---Searching Bus<br/>
+Starting Test Case---TC_BRV_005---Repetition Sequence---1.0Previous Day clicked<br/>
+Starting Test Case---TC_BRV_005---Repetition Sequence---1.0--- Test Pass--- Date is matching<br/>
+</div>
+</td>
+<td></td>
+<td>17</td>
+<td>com.poc.test.TestNG.Test_BusResult@6a0d8573</td></tr>
+<tr>
+<td title='com.poc.test.TestNG.Test_BusResult.testBusResulSeatView()'><b>testBusResulSeatView</b><br>Test class: com.poc.test.TestNG.Test_BusResult<br>Parameters: TC_BRV_003, 1.0, CHROME, Hyderabad, Bangalore, 30-Jun-2016, Morning Star Travels, Morning Star Travels<br/>
+<a href="#Output-140196472" onClick='toggleBox("Output-140196472", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-140196472" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-140196472">
+Starting Test Case-TC_BRV_003-Repetition Sequence-1.0-Browser-CHROME-Search_Jourenye-30-Jun-2016-Travels-Morning Star Travels-Expected_Result-Morning Star Travels<br/>
+Starting Test Case--------TC_BRV_003--------Repetition Sequence--------1.0<br/>
+Starting Test Case---TC_BRV_003---Repetition Sequence---1.0---CHROME---Browser launched<br/>
+Starting Test Case---TC_BRV_003---Repetition Sequence---1.0---URL launched<br/>
+Starting Test Case---TC_BRV_003---Repetition Sequence---1.0---Entered From Location<br/>
+Starting Test Case---TC_BRV_003---Repetition Sequence---1.0---Entered To Location<br/>
+Starting Test Case---TC_BRV_003---Repetition Sequence---1.0---Entered To Journey Date<br/>
+Starting Test Case---TC_BRV_003---Repetition Sequence---1.0---Searching Bus<br/>
+Starting Test Case---TC_BRV_003---Repetition Sequence---1.0---Travels Sort was successful<br/>
+Starting Test Case---TC_BRV_003---Repetition Sequence---1.0--- View Bus Seat<br/>
+Starting Test Case---TC_BRV_003---Repetition Sequence---1.0---  Seat Selected<br/>
+Starting Test Case---TC_BRV_003---Repetition Sequence---1.0---  Boarding Point Selected<br/>
+Starting Test Case---TC_BRV_003---Repetition Sequence---1.0---  Continue Next Page<br/>
+</div>
+</td>
+<td></td>
+<td>31</td>
+<td>com.poc.test.TestNG.Test_BusResult@6a0d8573</td></tr>
+<tr>
+<td title='com.poc.test.TestNG.Test_BusResult.testBusResultFilterProvider()'><b>testBusResultFilterProvider</b><br>Test class: com.poc.test.TestNG.Test_BusResult<br>Parameters: TC_BRV_001, 1.0, CHROME, Bangalore, Mysore, 30-Jun-2016, Kallada Travels Suresh Kallada, Kallada Travels Suresh Kallada<br/>
+<a href="#Output-666719454" onClick='toggleBox("Output-666719454", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-666719454" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-666719454">
+Starting Test Case-TC_BRV_001-Repetition Sequence-1.0-Browser-CHROME-Search_Jourenye-30-Jun-2016-Travels-Kallada Travels Suresh Kallada-Expected_Result-Kallada Travels Suresh Kallada<br/>
+Starting Test Case--------TC_BRV_001--------Repetition Sequence--------1.0<br/>
+Starting Test Case---TC_BRV_001---Repetition Sequence---1.0---CHROME---Browser launched<br/>
+Starting Test Case---TC_BRV_001---Repetition Sequence---1.0---URL launched<br/>
+Starting Test Case---TC_BRV_001---Repetition Sequence---1.0---Entered From Location<br/>
+Starting Test Case---TC_BRV_001---Repetition Sequence---1.0---Entered To Location<br/>
+Starting Test Case---TC_BRV_001---Repetition Sequence---1.0---Entered To Journey Date<br/>
+Starting Test Case---TC_BRV_001---Repetition Sequence---1.0---Searching Bus<br/>
+Starting Test Case---TC_BRV_001---Repetition Sequence---1.0--- Test Pass - Travels Sort was successful<br/>
+</div>
+</td>
+<td></td>
+<td>21</td>
+<td>com.poc.test.TestNG.Test_BusResult@6a0d8573</td></tr>
+<tr>
+<td title='com.poc.test.TestNG.Test_BusResult.testBusResultFilterType()'><b>testBusResultFilterType</b><br>Test class: com.poc.test.TestNG.Test_BusResult<br>Parameters: TC_BRV_002, 1.0, CHROME, Bangalore, Mysore, 30-Jun-2016, A/C, A/C<br/>
+<a href="#Output-1371797799" onClick='toggleBox("Output-1371797799", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1371797799" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1371797799">
+Starting Test Case-TC_BRV_002-Repetition Sequence-1.0-Browser-CHROME-Search_Jourenye-30-Jun-2016-Travels-A/C-Expected_Result-A/C<br/>
+Starting Test Case--------TC_BRV_002--------Repetition Sequence--------1.0<br/>
+Starting Test Case---TC_BRV_002---Repetition Sequence---1.0---CHROME---Browser launched<br/>
+Starting Test Case---TC_BRV_002---Repetition Sequence---1.0---URL launched<br/>
+Starting Test Case---TC_BRV_002---Repetition Sequence---1.0---Entered From Location<br/>
+Starting Test Case---TC_BRV_002---Repetition Sequence---1.0---Entered To Location<br/>
+Starting Test Case---TC_BRV_002---Repetition Sequence---1.0---Entered To Journey Date<br/>
+Starting Test Case---TC_BRV_002---Repetition Sequence---1.0---Searching Bus<br/>
+Starting Test Case---TC_BRV_002---Repetition Sequence---1.0--- Test Pass - Travels Sort was successful<br/>
+</div>
+</td>
+<td></td>
+<td>22</td>
+<td>com.poc.test.TestNG.Test_BusResult@6a0d8573</td></tr>
+<tr>
+<td title='com.poc.test.TestNG.Test_BusSearch.testInvalidSearch()'><b>testInvalidSearch</b><br>Test class: com.poc.test.TestNG.Test_BusSearch<br>Parameters: TC_BS_002, 1.0, FIREFOX, Bangalore, Bangalore Intl Airport, 30-Jun-2016, No tickets were found for this route today.<br/>
+<a href="#Output-737303002" onClick='toggleBox("Output-737303002", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-737303002" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-737303002">
+Starting Test Case--------TC_BS_002--------Repetition Sequence--------1.0<br/>
+Starting Test Case---TC_BS_002---Repetition Sequence---1.0---FIREFOX---Browser launched<br/>
+Starting Test Case---TC_BS_002---Repetition Sequence---1.0---URL launched<br/>
+Starting Test Case---TC_BS_002---Repetition Sequence---1.0---Entered From Location<br/>
+Starting Test Case---TC_BS_002---Repetition Sequence---1.0---Entered To Location<br/>
+Starting Test Case---TC_BS_002---Repetition Sequence---1.0---Entered To Journey Date<br/>
+Starting Test Case---TC_BS_002---Repetition Sequence---1.0---Searching Bus<br/>
+Starting Test Case---TC_BS_002---Repetition Sequence---1.0---Searching Bus<br/>
+</div>
+</td>
+<td></td>
+<td>18</td>
+<td>com.poc.test.TestNG.Test_BusSearch@25a885c3</td></tr>
+<tr>
+<td title='com.poc.test.TestNG.Test_BusSearch.testNotYetOpenSearch()'><b>testNotYetOpenSearch</b><br>Test class: com.poc.test.TestNG.Test_BusSearch<br>Parameters: TC_BS_003, 1.0, FIREFOX, Bangalore, Mysore, 05-Oct-2016, bookings have not yet opened for this route<br/>
+<a href="#Output-1468183834" onClick='toggleBox("Output-1468183834", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1468183834" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1468183834">
+Starting Test Case--------TC_BS_003--------Repetition Sequence--------1.0<br/>
+Starting Test Case---TC_BS_003---Repetition Sequence---1.0---FIREFOX---Browser launched<br/>
+Starting Test Case---TC_BS_003---Repetition Sequence---1.0---URL launched<br/>
+Starting Test Case---TC_BS_003---Repetition Sequence---1.0---Entered From Location<br/>
+Starting Test Case---TC_BS_003---Repetition Sequence---1.0---Entered To Location<br/>
+Starting Test Case---TC_BS_003---Repetition Sequence---1.0---Entered To Journey Date<br/>
+Starting Test Case---TC_BS_003---Repetition Sequence---1.0---Searching Bus<br/>
+Starting Test Case---TC_BS_003---Repetition Sequence---1.0--- Test Pass - Valid Error Message displayed<br/>
+</div>
+</td>
+<td></td>
+<td>49</td>
+<td>com.poc.test.TestNG.Test_BusSearch@25a885c3</td></tr>
+<tr>
+<td title='com.poc.test.TestNG.Test_BusSearch.testvalidSearch()'><b>testvalidSearch</b><br>Test class: com.poc.test.TestNG.Test_BusSearch<br>Parameters: TC_BS_001, 1.0, FIREFOX, Bangalore, Mysore, 30-Jun-2016, 5.0<br/>
+<a href="#Output-1598795242" onClick='toggleBox("Output-1598795242", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1598795242" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1598795242">
+Starting Test Case--------TC_BS_001--------Repetition Sequence--------1.0<br/>
+Starting Test Case---TC_BS_001---Repetition Sequence---1.0---FIREFOX---Browser launched<br/>
+Starting Test Case---TC_BS_001---Repetition Sequence---1.0---URL launched<br/>
+Starting Test Case---TC_BS_001---Repetition Sequence---1.0---Entered From Location<br/>
+Starting Test Case---TC_BS_001---Repetition Sequence---1.0---Entered To Location<br/>
+Starting Test Case---TC_BS_001---Repetition Sequence---1.0---Entered To Journey Date<br/>
+Starting Test Case---TC_BS_001---Repetition Sequence---1.0---Searching Bus<br/>
+Starting Test Case---TC_BS_001---Repetition Sequence---1.0--- Test Pass -5- Seats Available<br/>
+</div>
+</td>
+<td></td>
+<td>31</td>
+<td>com.poc.test.TestNG.Test_BusSearch@25a885c3</td></tr>
+</table><p>
+</body>
+</html>

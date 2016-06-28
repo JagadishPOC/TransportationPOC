@@ -1,0 +1,1593 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="15" passed="15">
+  <reporter-output>
+    <line>
+      <![CDATA[Starting Test Case--------TC_BS_001--------Repetition Sequence--------1.0]]>
+    </line>
+    <line>
+      <![CDATA[Starting Test Case---TC_BS_001---Repetition Sequence---1.0---FIREFOX---Browser launched]]>
+    </line>
+    <line>
+      <![CDATA[Starting Test Case---TC_BS_001---Repetition Sequence---1.0---URL launched]]>
+    </line>
+    <line>
+      <![CDATA[Starting Test Case---TC_BS_001---Repetition Sequence---1.0---Entered From Location]]>
+    </line>
+    <line>
+      <![CDATA[Starting Test Case---TC_BS_001---Repetition Sequence---1.0---Entered To Location]]>
+    </line>
+    <line>
+      <![CDATA[Starting Test Case---TC_BS_001---Repetition Sequence---1.0---Entered To Journey Date]]>
+    </line>
+    <line>
+      <![CDATA[Starting Test Case---TC_BS_001---Repetition Sequence---1.0---Searching Bus]]>
+    </line>
+    <line>
+      <![CDATA[Starting Test Case---TC_BS_001---Repetition Sequence---1.0--- Test Pass -5- Seats Available]]>
+    </line>
+    <line>
+      <![CDATA[Starting Test Case--------TC_BS_002--------Repetition Sequence--------1.0]]>
+    </line>
+    <line>
+      <![CDATA[Starting Test Case---TC_BS_002---Repetition Sequence---1.0---FIREFOX---Browser launched]]>
+    </line>
+    <line>
+      <![CDATA[Starting Test Case---TC_BS_002---Repetition Sequence---1.0---URL launched]]>
+    </line>
+    <line>
+      <![CDATA[Starting Test Case---TC_BS_002---Repetition Sequence---1.0---Entered From Location]]>
+    </line>
+    <line>
+      <![CDATA[Starting Test Case---TC_BS_002---Repetition Sequence---1.0---Entered To Location]]>
+    </line>
+    <line>
+      <![CDATA[Starting Test Case---TC_BS_002---Repetition Sequence---1.0---Entered To Journey Date]]>
+    </line>
+    <line>
+      <![CDATA[Starting Test Case---TC_BS_002---Repetition Sequence---1.0---Searching Bus]]>
+    </line>
+    <line>
+      <![CDATA[Starting Test Case---TC_BS_002---Repetition Sequence---1.0---Searching Bus]]>
+    </line>
+    <line>
+      <![CDATA[Starting Test Case--------TC_BS_003--------Repetition Sequence--------1.0]]>
+    </line>
+    <line>
+      <![CDATA[Starting Test Case---TC_BS_003---Repetition Sequence---1.0---FIREFOX---Browser launched]]>
+    </line>
+    <line>
+      <![CDATA[Starting Test Case---TC_BS_003---Repetition Sequence---1.0---URL launched]]>
+    </line>
+    <line>
+      <![CDATA[Starting Test Case---TC_BS_003---Repetition Sequence---1.0---Entered From Location]]>
+    </line>
+    <line>
+      <![CDATA[Starting Test Case---TC_BS_003---Repetition Sequence---1.0---Entered To Location]]>
+    </line>
+    <line>
+      <![CDATA[Starting Test Case---TC_BS_003---Repetition Sequence---1.0---Entered To Journey Date]]>
+    </line>
+    <line>
+      <![CDATA[Starting Test Case---TC_BS_003---Repetition Sequence---1.0---Searching Bus]]>
+    </line>
+    <line>
+      <![CDATA[Starting Test Case---TC_BS_003---Repetition Sequence---1.0--- Test Pass - Valid Error Message displayed]]>
+    </line>
+    <line>
+      <![CDATA[Starting Test Case-TC_BRV_001-Repetition Sequence-1.0-Browser-CHROME-Search_Jourenye-30-Jun-2016-Travels-Kallada Travels Suresh Kallada-Expected_Result-Kallada Travels Suresh Kallada]]>
+    </line>
+    <line>
+      <![CDATA[Starting Test Case--------TC_BRV_001--------Repetition Sequence--------1.0]]>
+    </line>
+    <line>
+      <![CDATA[Starting Test Case---TC_BRV_001---Repetition Sequence---1.0---CHROME---Browser launched]]>
+    </line>
+    <line>
+      <![CDATA[Starting Test Case---TC_BRV_001---Repetition Sequence---1.0---URL launched]]>
+    </line>
+    <line>
+      <![CDATA[Starting Test Case---TC_BRV_001---Repetition Sequence---1.0---Entered From Location]]>
+    </line>
+    <line>
+      <![CDATA[Starting Test Case---TC_BRV_001---Repetition Sequence---1.0---Entered To Location]]>
+    </line>
+    <line>
+      <![CDATA[Starting Test Case---TC_BRV_001---Repetition Sequence---1.0---Entered To Journey Date]]>
+    </line>
+    <line>
+      <![CDATA[Starting Test Case---TC_BRV_001---Repetition Sequence---1.0---Searching Bus]]>
+    </line>
+    <line>
+      <![CDATA[Starting Test Case---TC_BRV_001---Repetition Sequence---1.0--- Test Pass - Travels Sort was successful]]>
+    </line>
+    <line>
+      <![CDATA[Starting Test Case-TC_BRV_002-Repetition Sequence-1.0-Browser-CHROME-Search_Jourenye-30-Jun-2016-Travels-A/C-Expected_Result-A/C]]>
+    </line>
+    <line>
+      <![CDATA[Starting Test Case--------TC_BRV_002--------Repetition Sequence--------1.0]]>
+    </line>
+    <line>
+      <![CDATA[Starting Test Case---TC_BRV_002---Repetition Sequence---1.0---CHROME---Browser launched]]>
+    </line>
+    <line>
+      <![CDATA[Starting Test Case---TC_BRV_002---Repetition Sequence---1.0---URL launched]]>
+    </line>
+    <line>
+      <![CDATA[Starting Test Case---TC_BRV_002---Repetition Sequence---1.0---Entered From Location]]>
+    </line>
+    <line>
+      <![CDATA[Starting Test Case---TC_BRV_002---Repetition Sequence---1.0---Entered To Location]]>
+    </line>
+    <line>
+      <![CDATA[Starting Test Case---TC_BRV_002---Repetition Sequence---1.0---Entered To Journey Date]]>
+    </line>
+    <line>
+      <![CDATA[Starting Test Case---TC_BRV_002---Repetition Sequence---1.0---Searching Bus]]>
+    </line>
+    <line>
+      <![CDATA[Starting Test Case---TC_BRV_002---Repetition Sequence---1.0--- Test Pass - Travels Sort was successful]]>
+    </line>
+    <line>
+      <![CDATA[Starting Test Case-TC_BRV_003-Repetition Sequence-1.0-Browser-CHROME-Search_Jourenye-30-Jun-2016-Travels-Morning Star Travels-Expected_Result-Morning Star Travels]]>
+    </line>
+    <line>
+      <![CDATA[Starting Test Case--------TC_BRV_003--------Repetition Sequence--------1.0]]>
+    </line>
+    <line>
+      <![CDATA[Starting Test Case---TC_BRV_003---Repetition Sequence---1.0---CHROME---Browser launched]]>
+    </line>
+    <line>
+      <![CDATA[Starting Test Case---TC_BRV_003---Repetition Sequence---1.0---URL launched]]>
+    </line>
+    <line>
+      <![CDATA[Starting Test Case---TC_BRV_003---Repetition Sequence---1.0---Entered From Location]]>
+    </line>
+    <line>
+      <![CDATA[Starting Test Case---TC_BRV_003---Repetition Sequence---1.0---Entered To Location]]>
+    </line>
+    <line>
+      <![CDATA[Starting Test Case---TC_BRV_003---Repetition Sequence---1.0---Entered To Journey Date]]>
+    </line>
+    <line>
+      <![CDATA[Starting Test Case---TC_BRV_003---Repetition Sequence---1.0---Searching Bus]]>
+    </line>
+    <line>
+      <![CDATA[Starting Test Case---TC_BRV_003---Repetition Sequence---1.0---Travels Sort was successful]]>
+    </line>
+    <line>
+      <![CDATA[Starting Test Case---TC_BRV_003---Repetition Sequence---1.0--- View Bus Seat]]>
+    </line>
+    <line>
+      <![CDATA[Starting Test Case---TC_BRV_003---Repetition Sequence---1.0---  Seat Selected]]>
+    </line>
+    <line>
+      <![CDATA[Starting Test Case---TC_BRV_003---Repetition Sequence---1.0---  Boarding Point Selected]]>
+    </line>
+    <line>
+      <![CDATA[Starting Test Case---TC_BRV_003---Repetition Sequence---1.0---  Continue Next Page]]>
+    </line>
+    <line>
+      <![CDATA[Starting Test Case-TC_BRV_004-Repetition Sequence-1.0-Browser-CHROME-Search_Jourenye-30-Jun-2016-Travels-Orange Tours Travels-Expected_Result-Orange Tours Travels]]>
+    </line>
+    <line>
+      <![CDATA[Starting Test Case--------TC_BRV_004--------Repetition Sequence--------1.0]]>
+    </line>
+    <line>
+      <![CDATA[Starting Test Case---TC_BRV_004---Repetition Sequence---1.0---CHROME---Browser launched]]>
+    </line>
+    <line>
+      <![CDATA[Starting Test Case---TC_BRV_004---Repetition Sequence---1.0---URL launched]]>
+    </line>
+    <line>
+      <![CDATA[Starting Test Case---TC_BRV_004---Repetition Sequence---1.0---Entered From Location]]>
+    </line>
+    <line>
+      <![CDATA[Starting Test Case---TC_BRV_004---Repetition Sequence---1.0---Entered To Location]]>
+    </line>
+    <line>
+      <![CDATA[Starting Test Case---TC_BRV_004---Repetition Sequence---1.0---Entered To Journey Date]]>
+    </line>
+    <line>
+      <![CDATA[Starting Test Case---TC_BRV_004---Repetition Sequence---1.0---Searching Bus]]>
+    </line>
+    <line>
+      <![CDATA[Starting Test Case---TC_BRV_004---Repetition Sequence---1.0Next Day clicked]]>
+    </line>
+    <line>
+      <![CDATA[Starting Test Case---TC_BRV_004---Repetition Sequence---1.0--- Test Pass--- Date is matching]]>
+    </line>
+    <line>
+      <![CDATA[Starting Test Case-TC_BRV_005-Repetition Sequence-1.0-Browser-CHROME-Search_Jourenye-30-Jun-2016-Travels-Orange Tours Travels-Expected_Result-Orange Tours Travels]]>
+    </line>
+    <line>
+      <![CDATA[Starting Test Case--------TC_BRV_005--------Repetition Sequence--------1.0]]>
+    </line>
+    <line>
+      <![CDATA[Starting Test Case---TC_BRV_005---Repetition Sequence---1.0---CHROME---Browser launched]]>
+    </line>
+    <line>
+      <![CDATA[Starting Test Case---TC_BRV_005---Repetition Sequence---1.0---URL launched]]>
+    </line>
+    <line>
+      <![CDATA[Starting Test Case---TC_BRV_005---Repetition Sequence---1.0---Entered From Location]]>
+    </line>
+    <line>
+      <![CDATA[Starting Test Case---TC_BRV_005---Repetition Sequence---1.0---Entered To Location]]>
+    </line>
+    <line>
+      <![CDATA[Starting Test Case---TC_BRV_005---Repetition Sequence---1.0---Entered To Journey Date]]>
+    </line>
+    <line>
+      <![CDATA[Starting Test Case---TC_BRV_005---Repetition Sequence---1.0---Searching Bus]]>
+    </line>
+    <line>
+      <![CDATA[Starting Test Case---TC_BRV_005---Repetition Sequence---1.0Previous Day clicked]]>
+    </line>
+    <line>
+      <![CDATA[Starting Test Case---TC_BRV_005---Repetition Sequence---1.0--- Test Pass--- Date is matching]]>
+    </line>
+    <line>
+      <![CDATA[Starting Test Case-TC_BB_001-Repetition Sequence-1.0-Browser-FIREFOX-Search_Jourenye-30-Jun-2016-Travels-Seabird Torists Center]]>
+    </line>
+    <line>
+      <![CDATA[Starting Test Case--------TC_BB_001--------Repetition Sequence--------1.0]]>
+    </line>
+    <line>
+      <![CDATA[Starting Test Case---TC_BB_001---Repetition Sequence---1.0---FIREFOX---Browser launched]]>
+    </line>
+    <line>
+      <![CDATA[Starting Test Case---TC_BB_001---Repetition Sequence---1.0---URL launched]]>
+    </line>
+    <line>
+      <![CDATA[Starting Test Case---TC_BB_001---Repetition Sequence---1.0---Entered From Location]]>
+    </line>
+    <line>
+      <![CDATA[Starting Test Case---TC_BB_001---Repetition Sequence---1.0---Entered To Location]]>
+    </line>
+    <line>
+      <![CDATA[Starting Test Case---TC_BB_001---Repetition Sequence---1.0---Entered To Journey Date]]>
+    </line>
+    <line>
+      <![CDATA[Starting Test Case---TC_BB_001---Repetition Sequence---1.0---Searching Bus]]>
+    </line>
+    <line>
+      <![CDATA[Starting Test Case---TC_BB_001---Repetition Sequence---1.0---Travels Sort was successful]]>
+    </line>
+    <line>
+      <![CDATA[Starting Test Case---TC_BB_001---Repetition Sequence---1.0--- View Bus Seat]]>
+    </line>
+    <line>
+      <![CDATA[Starting Test Case---TC_BB_001---Repetition Sequence---1.0---  Seat Selected]]>
+    </line>
+    <line>
+      <![CDATA[Starting Test Case---TC_BB_001---Repetition Sequence---1.0---  Boarding Point Selected]]>
+    </line>
+    <line>
+      <![CDATA[Starting Test Case---TC_BB_001---Repetition Sequence---1.0---  Continue Next Page]]>
+    </line>
+    <line>
+      <![CDATA[Starting Test Case-TC_BB_001-Repetition Sequence-1.0--Customer Name Entered]]>
+    </line>
+    <line>
+      <![CDATA[Starting Test Case-TC_BB_001-Repetition Sequence-1.0--Customer email id Entered]]>
+    </line>
+    <line>
+      <![CDATA[Starting Test Case-TC_BB_001-Repetition Sequence-1.0--Customer Gender Entered]]>
+    </line>
+    <line>
+      <![CDATA[Starting Test Case-TC_BB_001-Repetition Sequence-1.0--Customer Phone# Entered]]>
+    </line>
+    <line>
+      <![CDATA[GET Request: https://mobapi.redbus.in/wdsvc/v1_1/bussearch?fromCityId=122&toCityId=1304&doj=30-Jun-2016]]>
+    </line>
+    <line>
+      <![CDATA[GET Request: https://mobapi.redbus.in/wdsvc/v1_1/bussearch?fromCityId=122&toCityId=129&doj=05-Oct-2016]]>
+    </line>
+    <line>
+      <![CDATA[GET Request: https://mobapi.redbus.in/wdsvc/v1_1/bussearch?fromCityId=122&toCityId=129&doj=30-Jun-2016]]>
+    </line>
+    <line>
+      <![CDATA[GET Request: https://mobapi.redbus.in/wdsvc/v1_1/bussearch?fromCityId=122&toCityId=129&doj=30-Jun-2016]]>
+    </line>
+    <line>
+      <![CDATA[POST Request: https://www.redbus.in/SeatStatusAPI/]]>
+    </line>
+    <line>
+      <![CDATA[GET Request: https://mobapi.redbus.in/wdsvc/v1_1/seatlayout?rt=4475033&sourceId=122&destinationId=129&doj=30-Jun-2016]]>
+    </line>
+  </reporter-output>
+  <suite name="technothonPOC" duration-ms="250054" started-at="2016-06-28T09:10:40Z" finished-at="2016-06-28T09:14:50Z">
+    <groups>
+      <group name="Regression">
+        <method signature="RedBus_ResultAPI_Tests.bus_Result_Filter_Provider_tests(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.poc.test.TestNG.RedBus_ResultAPI_Tests@13c6395b]" name="bus_Result_Filter_Provider_tests" class="com.poc.test.TestNG.RedBus_ResultAPI_Tests"/>
+        <method signature="RedBus_SeatLayoutAPI_Tests.testBusSeat_Layout(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.poc.test.TestNG.RedBus_SeatLayoutAPI_Tests@3aead8a8]" name="testBusSeat_Layout" class="com.poc.test.TestNG.RedBus_SeatLayoutAPI_Tests"/>
+        <method signature="Test_BusBooking.testBusBooking_CustomerData(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.poc.test.TestNG.Test_BusBooking@50a5bfd5]" name="testBusBooking_CustomerData" class="com.poc.test.TestNG.Test_BusBooking"/>
+        <method signature="Test_BusResult.testBusResulSeatView(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.poc.test.TestNG.Test_BusResult@71ce616b]" name="testBusResulSeatView" class="com.poc.test.TestNG.Test_BusResult"/>
+        <method signature="Test_BusResult.testBusResultFilterProvider(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.poc.test.TestNG.Test_BusResult@71ce616b]" name="testBusResultFilterProvider" class="com.poc.test.TestNG.Test_BusResult"/>
+        <method signature="Test_BusResult.testBusResultFilterType(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.poc.test.TestNG.Test_BusResult@71ce616b]" name="testBusResultFilterType" class="com.poc.test.TestNG.Test_BusResult"/>
+        <method signature="Test_BusSearch.testInvalidSearch(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.poc.test.TestNG.Test_BusSearch@44601ac7]" name="testInvalidSearch" class="com.poc.test.TestNG.Test_BusSearch"/>
+        <method signature="Test_BusSearch.testNotYetOpenSearch(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.poc.test.TestNG.Test_BusSearch@44601ac7]" name="testNotYetOpenSearch" class="com.poc.test.TestNG.Test_BusSearch"/>
+        <method signature="Test_BusSearch.testvalidSearch(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.poc.test.TestNG.Test_BusSearch@44601ac7]" name="testvalidSearch" class="com.poc.test.TestNG.Test_BusSearch"/>
+      </group> <!-- Regression -->
+      <group name="smoke">
+        <method signature="RedBus_SeatLayoutAPI_Tests.testBusSeat_Layout(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.poc.test.TestNG.RedBus_SeatLayoutAPI_Tests@3aead8a8]" name="testBusSeat_Layout" class="com.poc.test.TestNG.RedBus_SeatLayoutAPI_Tests"/>
+        <method signature="Test_BusBooking.testBusBooking_CustomerData(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.poc.test.TestNG.Test_BusBooking@50a5bfd5]" name="testBusBooking_CustomerData" class="com.poc.test.TestNG.Test_BusBooking"/>
+        <method signature="Test_BusResult.testBusResulNextDay(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.poc.test.TestNG.Test_BusResult@71ce616b]" name="testBusResulNextDay" class="com.poc.test.TestNG.Test_BusResult"/>
+        <method signature="Test_BusResult.testBusResulPreviousDay(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.poc.test.TestNG.Test_BusResult@71ce616b]" name="testBusResulPreviousDay" class="com.poc.test.TestNG.Test_BusResult"/>
+        <method signature="Test_BusSearch.testvalidSearch(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.poc.test.TestNG.Test_BusSearch@44601ac7]" name="testvalidSearch" class="com.poc.test.TestNG.Test_BusSearch"/>
+      </group> <!-- smoke -->
+    </groups>
+    <test name="Red Bus WebService API regression" duration-ms="250054" started-at="2016-06-28T09:10:40Z" finished-at="2016-06-28T09:14:50Z">
+      <class name="com.poc.test.TestNG.Test_BusResult">
+        <test-method status="PASS" signature="testBusResultFilterProvider(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.poc.test.TestNG.Test_BusResult@71ce616b]" name="testBusResultFilterProvider" duration-ms="17398" started-at="2016-06-28T14:42:13Z" data-provider="dp_getBusResult_Filter_Provider" finished-at="2016-06-28T14:42:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC_BRV_001]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1.0]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[CHROME]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Bangalore]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Mysore]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[30-Jun-2016]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Kallada Travels Suresh Kallada]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Kallada Travels Suresh Kallada]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Starting Test Case-TC_BRV_001-Repetition Sequence-1.0-Browser-CHROME-Search_Jourenye-30-Jun-2016-Travels-Kallada Travels Suresh Kallada-Expected_Result-Kallada Travels Suresh Kallada]]>
+            </line>
+            <line>
+              <![CDATA[Starting Test Case--------TC_BRV_001--------Repetition Sequence--------1.0]]>
+            </line>
+            <line>
+              <![CDATA[Starting Test Case---TC_BRV_001---Repetition Sequence---1.0---CHROME---Browser launched]]>
+            </line>
+            <line>
+              <![CDATA[Starting Test Case---TC_BRV_001---Repetition Sequence---1.0---URL launched]]>
+            </line>
+            <line>
+              <![CDATA[Starting Test Case---TC_BRV_001---Repetition Sequence---1.0---Entered From Location]]>
+            </line>
+            <line>
+              <![CDATA[Starting Test Case---TC_BRV_001---Repetition Sequence---1.0---Entered To Location]]>
+            </line>
+            <line>
+              <![CDATA[Starting Test Case---TC_BRV_001---Repetition Sequence---1.0---Entered To Journey Date]]>
+            </line>
+            <line>
+              <![CDATA[Starting Test Case---TC_BRV_001---Repetition Sequence---1.0---Searching Bus]]>
+            </line>
+            <line>
+              <![CDATA[Starting Test Case---TC_BRV_001---Repetition Sequence---1.0--- Test Pass - Travels Sort was successful]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testBusResultFilterProvider -->
+        <test-method status="PASS" signature="testBusResultFilterType(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.poc.test.TestNG.Test_BusResult@71ce616b]" name="testBusResultFilterType" duration-ms="15861" started-at="2016-06-28T14:42:30Z" data-provider="dp_getBusResult_Filter_Type" finished-at="2016-06-28T14:42:46Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC_BRV_002]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1.0]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[CHROME]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Bangalore]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Mysore]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[30-Jun-2016]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[A/C]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[A/C]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Starting Test Case-TC_BRV_002-Repetition Sequence-1.0-Browser-CHROME-Search_Jourenye-30-Jun-2016-Travels-A/C-Expected_Result-A/C]]>
+            </line>
+            <line>
+              <![CDATA[Starting Test Case--------TC_BRV_002--------Repetition Sequence--------1.0]]>
+            </line>
+            <line>
+              <![CDATA[Starting Test Case---TC_BRV_002---Repetition Sequence---1.0---CHROME---Browser launched]]>
+            </line>
+            <line>
+              <![CDATA[Starting Test Case---TC_BRV_002---Repetition Sequence---1.0---URL launched]]>
+            </line>
+            <line>
+              <![CDATA[Starting Test Case---TC_BRV_002---Repetition Sequence---1.0---Entered From Location]]>
+            </line>
+            <line>
+              <![CDATA[Starting Test Case---TC_BRV_002---Repetition Sequence---1.0---Entered To Location]]>
+            </line>
+            <line>
+              <![CDATA[Starting Test Case---TC_BRV_002---Repetition Sequence---1.0---Entered To Journey Date]]>
+            </line>
+            <line>
+              <![CDATA[Starting Test Case---TC_BRV_002---Repetition Sequence---1.0---Searching Bus]]>
+            </line>
+            <line>
+              <![CDATA[Starting Test Case---TC_BRV_002---Repetition Sequence---1.0--- Test Pass - Travels Sort was successful]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testBusResultFilterType -->
+        <test-method status="PASS" signature="testBusResulSeatView(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.poc.test.TestNG.Test_BusResult@71ce616b]" name="testBusResulSeatView" duration-ms="32033" started-at="2016-06-28T14:42:46Z" data-provider="dp_getBusResult_Seat_View" finished-at="2016-06-28T14:43:18Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC_BRV_003]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1.0]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[CHROME]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Hyderabad]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Bangalore]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[30-Jun-2016]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Morning Star Travels]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Morning Star Travels]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Starting Test Case-TC_BRV_003-Repetition Sequence-1.0-Browser-CHROME-Search_Jourenye-30-Jun-2016-Travels-Morning Star Travels-Expected_Result-Morning Star Travels]]>
+            </line>
+            <line>
+              <![CDATA[Starting Test Case--------TC_BRV_003--------Repetition Sequence--------1.0]]>
+            </line>
+            <line>
+              <![CDATA[Starting Test Case---TC_BRV_003---Repetition Sequence---1.0---CHROME---Browser launched]]>
+            </line>
+            <line>
+              <![CDATA[Starting Test Case---TC_BRV_003---Repetition Sequence---1.0---URL launched]]>
+            </line>
+            <line>
+              <![CDATA[Starting Test Case---TC_BRV_003---Repetition Sequence---1.0---Entered From Location]]>
+            </line>
+            <line>
+              <![CDATA[Starting Test Case---TC_BRV_003---Repetition Sequence---1.0---Entered To Location]]>
+            </line>
+            <line>
+              <![CDATA[Starting Test Case---TC_BRV_003---Repetition Sequence---1.0---Entered To Journey Date]]>
+            </line>
+            <line>
+              <![CDATA[Starting Test Case---TC_BRV_003---Repetition Sequence---1.0---Searching Bus]]>
+            </line>
+            <line>
+              <![CDATA[Starting Test Case---TC_BRV_003---Repetition Sequence---1.0---Travels Sort was successful]]>
+            </line>
+            <line>
+              <![CDATA[Starting Test Case---TC_BRV_003---Repetition Sequence---1.0--- View Bus Seat]]>
+            </line>
+            <line>
+              <![CDATA[Starting Test Case---TC_BRV_003---Repetition Sequence---1.0---  Seat Selected]]>
+            </line>
+            <line>
+              <![CDATA[Starting Test Case---TC_BRV_003---Repetition Sequence---1.0---  Boarding Point Selected]]>
+            </line>
+            <line>
+              <![CDATA[Starting Test Case---TC_BRV_003---Repetition Sequence---1.0---  Continue Next Page]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testBusResulSeatView -->
+        <test-method status="PASS" signature="testBusResulNextDay(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.poc.test.TestNG.Test_BusResult@71ce616b]" name="testBusResulNextDay" duration-ms="18588" started-at="2016-06-28T14:43:18Z" data-provider="dp_getBusResult_Next_Day" finished-at="2016-06-28T14:43:37Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC_BRV_004]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1.0]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[CHROME]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Hyderabad]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Bangalore]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[30-Jun-2016]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Orange Tours Travels]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Orange Tours Travels]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Starting Test Case-TC_BRV_004-Repetition Sequence-1.0-Browser-CHROME-Search_Jourenye-30-Jun-2016-Travels-Orange Tours Travels-Expected_Result-Orange Tours Travels]]>
+            </line>
+            <line>
+              <![CDATA[Starting Test Case--------TC_BRV_004--------Repetition Sequence--------1.0]]>
+            </line>
+            <line>
+              <![CDATA[Starting Test Case---TC_BRV_004---Repetition Sequence---1.0---CHROME---Browser launched]]>
+            </line>
+            <line>
+              <![CDATA[Starting Test Case---TC_BRV_004---Repetition Sequence---1.0---URL launched]]>
+            </line>
+            <line>
+              <![CDATA[Starting Test Case---TC_BRV_004---Repetition Sequence---1.0---Entered From Location]]>
+            </line>
+            <line>
+              <![CDATA[Starting Test Case---TC_BRV_004---Repetition Sequence---1.0---Entered To Location]]>
+            </line>
+            <line>
+              <![CDATA[Starting Test Case---TC_BRV_004---Repetition Sequence---1.0---Entered To Journey Date]]>
+            </line>
+            <line>
+              <![CDATA[Starting Test Case---TC_BRV_004---Repetition Sequence---1.0---Searching Bus]]>
+            </line>
+            <line>
+              <![CDATA[Starting Test Case---TC_BRV_004---Repetition Sequence---1.0Next Day clicked]]>
+            </line>
+            <line>
+              <![CDATA[Starting Test Case---TC_BRV_004---Repetition Sequence---1.0--- Test Pass--- Date is matching]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testBusResulNextDay -->
+        <test-method status="PASS" signature="testBusResulPreviousDay(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.poc.test.TestNG.Test_BusResult@71ce616b]" name="testBusResulPreviousDay" duration-ms="16676" started-at="2016-06-28T14:43:37Z" data-provider="dp_getBusResult_Previous_Day" finished-at="2016-06-28T14:43:54Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC_BRV_005]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1.0]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[CHROME]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Hyderabad]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Bangalore]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[30-Jun-2016]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Orange Tours Travels]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Orange Tours Travels]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Starting Test Case-TC_BRV_005-Repetition Sequence-1.0-Browser-CHROME-Search_Jourenye-30-Jun-2016-Travels-Orange Tours Travels-Expected_Result-Orange Tours Travels]]>
+            </line>
+            <line>
+              <![CDATA[Starting Test Case--------TC_BRV_005--------Repetition Sequence--------1.0]]>
+            </line>
+            <line>
+              <![CDATA[Starting Test Case---TC_BRV_005---Repetition Sequence---1.0---CHROME---Browser launched]]>
+            </line>
+            <line>
+              <![CDATA[Starting Test Case---TC_BRV_005---Repetition Sequence---1.0---URL launched]]>
+            </line>
+            <line>
+              <![CDATA[Starting Test Case---TC_BRV_005---Repetition Sequence---1.0---Entered From Location]]>
+            </line>
+            <line>
+              <![CDATA[Starting Test Case---TC_BRV_005---Repetition Sequence---1.0---Entered To Location]]>
+            </line>
+            <line>
+              <![CDATA[Starting Test Case---TC_BRV_005---Repetition Sequence---1.0---Entered To Journey Date]]>
+            </line>
+            <line>
+              <![CDATA[Starting Test Case---TC_BRV_005---Repetition Sequence---1.0---Searching Bus]]>
+            </line>
+            <line>
+              <![CDATA[Starting Test Case---TC_BRV_005---Repetition Sequence---1.0Previous Day clicked]]>
+            </line>
+            <line>
+              <![CDATA[Starting Test Case---TC_BRV_005---Repetition Sequence---1.0--- Test Pass--- Date is matching]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testBusResulPreviousDay -->
+      </class> <!-- com.poc.test.TestNG.Test_BusResult -->
+      <class name="com.poc.test.TestNG.Test_BusSearch">
+        <test-method status="PASS" signature="testvalidSearch(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.poc.test.TestNG.Test_BusSearch@44601ac7]" name="testvalidSearch" duration-ms="21740" started-at="2016-06-28T14:40:41Z" data-provider="dp_getValidBusSearchData" finished-at="2016-06-28T14:41:02Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC_BS_001]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1.0]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[FIREFOX]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Bangalore]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Mysore]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[30-Jun-2016]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[5.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Starting Test Case--------TC_BS_001--------Repetition Sequence--------1.0]]>
+            </line>
+            <line>
+              <![CDATA[Starting Test Case---TC_BS_001---Repetition Sequence---1.0---FIREFOX---Browser launched]]>
+            </line>
+            <line>
+              <![CDATA[Starting Test Case---TC_BS_001---Repetition Sequence---1.0---URL launched]]>
+            </line>
+            <line>
+              <![CDATA[Starting Test Case---TC_BS_001---Repetition Sequence---1.0---Entered From Location]]>
+            </line>
+            <line>
+              <![CDATA[Starting Test Case---TC_BS_001---Repetition Sequence---1.0---Entered To Location]]>
+            </line>
+            <line>
+              <![CDATA[Starting Test Case---TC_BS_001---Repetition Sequence---1.0---Entered To Journey Date]]>
+            </line>
+            <line>
+              <![CDATA[Starting Test Case---TC_BS_001---Repetition Sequence---1.0---Searching Bus]]>
+            </line>
+            <line>
+              <![CDATA[Starting Test Case---TC_BS_001---Repetition Sequence---1.0--- Test Pass -5- Seats Available]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testvalidSearch -->
+        <test-method status="PASS" signature="closeActivities()[pri:0, instance:com.poc.test.TestNG.Test_BusSearch@44601ac7]" name="closeActivities" is-config="true" duration-ms="5" started-at="2016-06-28T14:41:02Z" finished-at="2016-06-28T14:41:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeActivities -->
+        <test-method status="PASS" signature="testInvalidSearch(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.poc.test.TestNG.Test_BusSearch@44601ac7]" name="testInvalidSearch" duration-ms="18642" started-at="2016-06-28T14:41:02Z" data-provider="dp_getInvalidBusSearchData" finished-at="2016-06-28T14:41:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC_BS_002]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1.0]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[FIREFOX]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Bangalore]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Bangalore Intl Airport]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[30-Jun-2016]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[No tickets were found for this route today.]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Starting Test Case--------TC_BS_002--------Repetition Sequence--------1.0]]>
+            </line>
+            <line>
+              <![CDATA[Starting Test Case---TC_BS_002---Repetition Sequence---1.0---FIREFOX---Browser launched]]>
+            </line>
+            <line>
+              <![CDATA[Starting Test Case---TC_BS_002---Repetition Sequence---1.0---URL launched]]>
+            </line>
+            <line>
+              <![CDATA[Starting Test Case---TC_BS_002---Repetition Sequence---1.0---Entered From Location]]>
+            </line>
+            <line>
+              <![CDATA[Starting Test Case---TC_BS_002---Repetition Sequence---1.0---Entered To Location]]>
+            </line>
+            <line>
+              <![CDATA[Starting Test Case---TC_BS_002---Repetition Sequence---1.0---Entered To Journey Date]]>
+            </line>
+            <line>
+              <![CDATA[Starting Test Case---TC_BS_002---Repetition Sequence---1.0---Searching Bus]]>
+            </line>
+            <line>
+              <![CDATA[Starting Test Case---TC_BS_002---Repetition Sequence---1.0---Searching Bus]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testInvalidSearch -->
+        <test-method status="PASS" signature="closeActivities()[pri:0, instance:com.poc.test.TestNG.Test_BusSearch@44601ac7]" name="closeActivities" is-config="true" duration-ms="1" started-at="2016-06-28T14:41:21Z" finished-at="2016-06-28T14:41:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeActivities -->
+        <test-method status="PASS" signature="testNotYetOpenSearch(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.poc.test.TestNG.Test_BusSearch@44601ac7]" name="testNotYetOpenSearch" duration-ms="51889" started-at="2016-06-28T14:41:21Z" data-provider="dp_getNotYetOpenBusSearchData" finished-at="2016-06-28T14:42:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC_BS_003]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1.0]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[FIREFOX]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Bangalore]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Mysore]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[05-Oct-2016]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[bookings have not yet opened for this route]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Starting Test Case--------TC_BS_003--------Repetition Sequence--------1.0]]>
+            </line>
+            <line>
+              <![CDATA[Starting Test Case---TC_BS_003---Repetition Sequence---1.0---FIREFOX---Browser launched]]>
+            </line>
+            <line>
+              <![CDATA[Starting Test Case---TC_BS_003---Repetition Sequence---1.0---URL launched]]>
+            </line>
+            <line>
+              <![CDATA[Starting Test Case---TC_BS_003---Repetition Sequence---1.0---Entered From Location]]>
+            </line>
+            <line>
+              <![CDATA[Starting Test Case---TC_BS_003---Repetition Sequence---1.0---Entered To Location]]>
+            </line>
+            <line>
+              <![CDATA[Starting Test Case---TC_BS_003---Repetition Sequence---1.0---Entered To Journey Date]]>
+            </line>
+            <line>
+              <![CDATA[Starting Test Case---TC_BS_003---Repetition Sequence---1.0---Searching Bus]]>
+            </line>
+            <line>
+              <![CDATA[Starting Test Case---TC_BS_003---Repetition Sequence---1.0--- Test Pass - Valid Error Message displayed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testNotYetOpenSearch -->
+        <test-method status="PASS" signature="closeActivities()[pri:0, instance:com.poc.test.TestNG.Test_BusSearch@44601ac7]" name="closeActivities" is-config="true" duration-ms="1" started-at="2016-06-28T14:42:13Z" finished-at="2016-06-28T14:42:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeActivities -->
+      </class> <!-- com.poc.test.TestNG.Test_BusSearch -->
+      <class name="com.poc.test.TestNG.RedBus_SeatLayoutAPI_Tests">
+        <test-method status="PASS" signature="initialize(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, boolean, java.lang.String, java.lang.String)[pri:0, instance:com.poc.test.TestNG.RedBus_SeatLayoutAPI_Tests@3aead8a8]" name="initialize" is-config="true" duration-ms="24" started-at="2016-06-28T14:44:49Z" finished-at="2016-06-28T14:44:49Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[redBus.aptimus]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[application/json]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[application/json]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[OAUTH]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[831D8B107020BBEBE0400F0A32207789]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="13">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="14">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="15">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+            <param index="16">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="17">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.poc.test.TestNG.RedBus_SeatLayoutAPI_Tests@3aead8a8]" name="setUp" is-config="true" duration-ms="8" started-at="2016-06-28T14:44:49Z" finished-at="2016-06-28T14:44:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testBusSeat_Available()[pri:0, instance:com.poc.test.TestNG.RedBus_SeatLayoutAPI_Tests@3aead8a8]" name="testBusSeat_Available" duration-ms="382" started-at="2016-06-28T14:44:49Z" finished-at="2016-06-28T14:44:49Z">
+          <reporter-output>
+            <line>
+              <![CDATA[POST Request: https://www.redbus.in/SeatStatusAPI/]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testBusSeat_Available -->
+        <test-method status="PASS" signature="testBusSeat_Layout(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.poc.test.TestNG.RedBus_SeatLayoutAPI_Tests@3aead8a8]" name="testBusSeat_Layout" duration-ms="1109" started-at="2016-06-28T14:44:49Z" data-provider="dp_BusBooking_CustomerData" finished-at="2016-06-28T14:44:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC_BB_001]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1.0]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[FIREFOX]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Bangalore]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Mysore]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[30-Jun-2016]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Seabird Torists Center]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[John]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[John@gmail.com]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[9.894586571E9]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[M]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[GET Request: https://mobapi.redbus.in/wdsvc/v1_1/seatlayout?rt=4475033&sourceId=122&destinationId=129&doj=30-Jun-2016]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testBusSeat_Layout -->
+        <test-method status="PASS" signature="generatePerformanceReport()[pri:0, instance:com.poc.test.TestNG.RedBus_SeatLayoutAPI_Tests@3aead8a8]" name="generatePerformanceReport" is-config="true" duration-ms="0" started-at="2016-06-28T14:44:50Z" finished-at="2016-06-28T14:44:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- generatePerformanceReport -->
+      </class> <!-- com.poc.test.TestNG.RedBus_SeatLayoutAPI_Tests -->
+      <class name="com.poc.test.TestNG.RedBus_ResultAPI_Tests">
+        <test-method status="PASS" signature="initialize(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, boolean, java.lang.String, java.lang.String)[pri:0, instance:com.poc.test.TestNG.RedBus_ResultAPI_Tests@13c6395b]" name="initialize" is-config="true" duration-ms="0" started-at="2016-06-28T14:44:48Z" finished-at="2016-06-28T14:44:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[redBus.aptimus]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[application/json]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[application/json]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[OAUTH]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[831D8B107020BBEBE0400F0A32207789]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="13">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="14">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="15">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+            <param index="16">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="17">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.poc.test.TestNG.RedBus_ResultAPI_Tests@13c6395b]" name="setUp" is-config="true" duration-ms="8" started-at="2016-06-28T14:44:48Z" finished-at="2016-06-28T14:44:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="bus_Result_Filter_Provider_tests(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.poc.test.TestNG.RedBus_ResultAPI_Tests@13c6395b]" name="bus_Result_Filter_Provider_tests" duration-ms="560" started-at="2016-06-28T14:44:48Z" data-provider="dp_getBusResult_Filter_Provider" finished-at="2016-06-28T14:44:49Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC_BRV_001]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1.0]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[CHROME]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Bangalore]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Mysore]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[30-Jun-2016]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Kallada Travels Suresh Kallada]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Kallada Travels Suresh Kallada]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[GET Request: https://mobapi.redbus.in/wdsvc/v1_1/bussearch?fromCityId=122&toCityId=129&doj=30-Jun-2016]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- bus_Result_Filter_Provider_tests -->
+      </class> <!-- com.poc.test.TestNG.RedBus_ResultAPI_Tests -->
+      <class name="com.poc.test.TestNG.RedBus_SearchAPI_Tests">
+        <test-method status="PASS" signature="initialize(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, boolean, java.lang.String, java.lang.String)[pri:0, instance:com.poc.test.TestNG.RedBus_SearchAPI_Tests@4c93a753]" name="initialize" is-config="true" duration-ms="36" started-at="2016-06-28T14:44:45Z" finished-at="2016-06-28T14:44:45Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[redBus.aptimus]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[application/json]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[application/json]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[OAUTH]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[831D8B107020BBEBE0400F0A32207789]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="13">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="14">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="15">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+            <param index="16">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="17">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.poc.test.TestNG.RedBus_SearchAPI_Tests@4c93a753]" name="setUp" is-config="true" duration-ms="31" started-at="2016-06-28T14:44:45Z" finished-at="2016-06-28T14:44:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="busSearch_Invalid_tests(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.poc.test.TestNG.RedBus_SearchAPI_Tests@4c93a753]" name="busSearch_Invalid_tests" duration-ms="2048" started-at="2016-06-28T14:44:45Z" description="Bus  In valid Search" data-provider="dp_getInvalidBusSearchData" finished-at="2016-06-28T14:44:47Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC_BS_002]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1.0]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[FIREFOX]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Bangalore]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Bangalore Intl Airport]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[30-Jun-2016]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[No tickets were found for this route today.]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[GET Request: https://mobapi.redbus.in/wdsvc/v1_1/bussearch?fromCityId=122&toCityId=1304&doj=30-Jun-2016]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- busSearch_Invalid_tests -->
+        <test-method status="PASS" signature="busSearch_NotYetOpenSearch_tests(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.poc.test.TestNG.RedBus_SearchAPI_Tests@4c93a753]" name="busSearch_NotYetOpenSearch_tests" duration-ms="472" started-at="2016-06-28T14:44:47Z" description="Not yet open Bus Search data" data-provider="dp_getNotYetOpenBusSearchData" finished-at="2016-06-28T14:44:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC_BS_003]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1.0]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[FIREFOX]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Bangalore]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Mysore]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[05-Oct-2016]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[bookings have not yet opened for this route]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[GET Request: https://mobapi.redbus.in/wdsvc/v1_1/bussearch?fromCityId=122&toCityId=129&doj=05-Oct-2016]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- busSearch_NotYetOpenSearch_tests -->
+        <test-method status="PASS" signature="busSearch_Valid_tests(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.poc.test.TestNG.RedBus_SearchAPI_Tests@4c93a753]" name="busSearch_Valid_tests" duration-ms="634" started-at="2016-06-28T14:44:48Z" description="Bus  Valid Search" data-provider="dp_getValidBusSearchData" finished-at="2016-06-28T14:44:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC_BS_001]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1.0]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[FIREFOX]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Bangalore]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Mysore]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[30-Jun-2016]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[5.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[GET Request: https://mobapi.redbus.in/wdsvc/v1_1/bussearch?fromCityId=122&toCityId=129&doj=30-Jun-2016]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- busSearch_Valid_tests -->
+      </class> <!-- com.poc.test.TestNG.RedBus_SearchAPI_Tests -->
+      <class name="com.poc.test.TestNG.Test_BusBooking">
+        <test-method status="PASS" signature="testBusBooking_CustomerData(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.poc.test.TestNG.Test_BusBooking@50a5bfd5]" name="testBusBooking_CustomerData" duration-ms="51361" started-at="2016-06-28T14:43:54Z" data-provider="dp_BusBooking_CustomerData" finished-at="2016-06-28T14:44:45Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC_BB_001]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1.0]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[FIREFOX]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Bangalore]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Mysore]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[30-Jun-2016]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Seabird Torists Center]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[John]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[John@gmail.com]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[9.894586571E9]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[M]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Starting Test Case-TC_BB_001-Repetition Sequence-1.0-Browser-FIREFOX-Search_Jourenye-30-Jun-2016-Travels-Seabird Torists Center]]>
+            </line>
+            <line>
+              <![CDATA[Starting Test Case--------TC_BB_001--------Repetition Sequence--------1.0]]>
+            </line>
+            <line>
+              <![CDATA[Starting Test Case---TC_BB_001---Repetition Sequence---1.0---FIREFOX---Browser launched]]>
+            </line>
+            <line>
+              <![CDATA[Starting Test Case---TC_BB_001---Repetition Sequence---1.0---URL launched]]>
+            </line>
+            <line>
+              <![CDATA[Starting Test Case---TC_BB_001---Repetition Sequence---1.0---Entered From Location]]>
+            </line>
+            <line>
+              <![CDATA[Starting Test Case---TC_BB_001---Repetition Sequence---1.0---Entered To Location]]>
+            </line>
+            <line>
+              <![CDATA[Starting Test Case---TC_BB_001---Repetition Sequence---1.0---Entered To Journey Date]]>
+            </line>
+            <line>
+              <![CDATA[Starting Test Case---TC_BB_001---Repetition Sequence---1.0---Searching Bus]]>
+            </line>
+            <line>
+              <![CDATA[Starting Test Case---TC_BB_001---Repetition Sequence---1.0---Travels Sort was successful]]>
+            </line>
+            <line>
+              <![CDATA[Starting Test Case---TC_BB_001---Repetition Sequence---1.0--- View Bus Seat]]>
+            </line>
+            <line>
+              <![CDATA[Starting Test Case---TC_BB_001---Repetition Sequence---1.0---  Seat Selected]]>
+            </line>
+            <line>
+              <![CDATA[Starting Test Case---TC_BB_001---Repetition Sequence---1.0---  Boarding Point Selected]]>
+            </line>
+            <line>
+              <![CDATA[Starting Test Case---TC_BB_001---Repetition Sequence---1.0---  Continue Next Page]]>
+            </line>
+            <line>
+              <![CDATA[Starting Test Case-TC_BB_001-Repetition Sequence-1.0--Customer Name Entered]]>
+            </line>
+            <line>
+              <![CDATA[Starting Test Case-TC_BB_001-Repetition Sequence-1.0--Customer email id Entered]]>
+            </line>
+            <line>
+              <![CDATA[Starting Test Case-TC_BB_001-Repetition Sequence-1.0--Customer Gender Entered]]>
+            </line>
+            <line>
+              <![CDATA[Starting Test Case-TC_BB_001-Repetition Sequence-1.0--Customer Phone# Entered]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testBusBooking_CustomerData -->
+      </class> <!-- com.poc.test.TestNG.Test_BusBooking -->
+    </test> <!-- Red Bus WebService API regression -->
+  </suite> <!-- technothonPOC -->
+</testng-results>

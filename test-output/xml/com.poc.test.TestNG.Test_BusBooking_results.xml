@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="redBus"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="57.129">
+  <properties />
+  
+  
+            <testcase name="testBusBooking_CustomerData" time="57.129" classname="com.poc.test.TestNG.Test_BusBooking" />
+      
+</testsuite>
